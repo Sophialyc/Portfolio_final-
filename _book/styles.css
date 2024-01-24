@@ -5,12 +5,15 @@
   padding-bottom: 9em;
 }
 
-.quarto-title > h1.title {
-  opacity: 0 !important;
+body {
+    font-family: 'Your Chosen Font', sans-serif;
+    /* Other font-related properties (e.g., font-size, font-weight) can be added here */
 }
 
+h1, h2, h3 {
+    font-family: 'Tiffany', sans-serif;
+}
 
-/* Adjust the logo size by 50% */
-.navbar-brand img {
-    width: 300%;
+p {
+    font-family: 'Another Font for Paragraphs', sans-serif;
 }
