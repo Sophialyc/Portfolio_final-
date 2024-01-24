@@ -1,22 +1,32 @@
-# Contact {.unnumbered}
+### Contact {.unnumbered}
 
 #### Get in touch for Private lessons Performance, Collaborations {.unnumbered}
 
+::: {style="display: flex; max-width: 800px; margin: auto;"}
+::: {style="flex: 1; padding: 20px;"}
+![](port_figures/3.jpg){alt="Logo" style="max-"}
+:::
+
+::: {style="flex: 1; padding: 20px; box-sizing: border-box;"}
+<h1>Contact</h1>
+
 <form id="contactForm">
 
-<label for="name">Name:</label> <input type="text" id="name" name="name" required> <label for="email">Email:</label> <input type="email" id="email" name="email" required> <label for="subject">Subject:</label> <input type="text" id="subject" name="subject" required> <label for="message">Message:</label>
+<label for="name">Name:</label> <input type="text" id="name" name="name" required>
+
+<label for="email">Email:</label> <input type="email" id="email" name="email" required>
+
+<label for="message">Message:</label>
 
 ```{=html}
-<textarea id="message" name="message" rows="4" required></textarea>
+<textarea id="message" name="message" rows="5" required></textarea>
 ```
-<button type="button" onclick="submitForm()">
-
-Submit
-
-</button>
+<button type="button" onclick="submitForm()">Submit</button>
 
 </form>
+:::
+:::
 
 ```{=html}
-<script> function submitForm() { var name = document.getElementById('name').value; var email = document.getElementById('email').value; var subject = document.getElementById('subject').value; var message = document.getElementById('message').value; // You can perform additional validation here if needed // Example: Displaying the entered values (replace this with your form submission logic) alert('Name: ' + name + '\nEmail: ' + email + '\nSubject: ' + subject + '\nMessage: ' + message); } </script>
+<script> function submitForm() { var name = document.getElementById('name').value; var email = document.getElementById('email').value; var message = document.getElementById('message').value; // You can perform additional validation here if needed // Example: Displaying the entered values (replace this with your form submission logic) alert('Name: ' + name + '\nEmail: ' + email + '\nMessage: ' + message); } </script>
 ```
