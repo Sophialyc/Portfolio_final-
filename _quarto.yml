@@ -5,7 +5,6 @@ project:
 book:
   title:
     Shirley Cheung
-    Flute · Piccolo 
   navbar: 
     logo: port_figures/3.jpg
     collapse: true
@@ -15,13 +14,18 @@ book:
     search: true
     right:
       - icon: github
+      - icon: instagram  # Add Instagram icon
+        href: "https://www.instagram.com/cheunghoiiiyi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+      - icon: facebook   # Add Facebook icon
+        href: "https://www.facebook.com/shirley.cheung.98892"
+      - icon: whatsapp
+        href: "https://wa.me/+85266893127"
     pinned: true
     align: center
   sidebar:
     title: "Profile"
     style: docked
     reader-mode: true
-  repo-url: https://github.com/Sophialyc/Portfolio_final-.git
   chapters:
     - index.qmd
     - biography.qmd
@@ -33,12 +37,10 @@ bibliography: references.bib
 
 format:
   html:
-    theme:
-      light: [Lux, default]
-      dark: [morph,darkly, dark.css]
+    theme: [Lux]
     css: styles.css
     toc: false
-    title-block-banner: "port_figures/banner.JPG"
+    title-block-banner: "port_figures/shirley.jpeg"
     title-block-style: default
     title-block-categories: false
     title-block-banner-color: "body"
