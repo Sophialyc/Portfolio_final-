@@ -1,6 +1,6 @@
-# Contact
+# Contact {.unnumbered}
 
-#### Get in touch for Private lessons Performance, Collaborations
+#### Get in touch for Private lessons Performance, Collaborations {.unnumbered}
 
 <form id="contactForm">
 

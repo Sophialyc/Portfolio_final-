@@ -35,8 +35,7 @@ format:
       light: [Lux, flatly]
       dark: [Lux,darkly, dark.css]
     css: styles.css
-    toc: true
-    toc-location: right
+    toc: false
     title-block-banner: "port_figures/banner.JPG"
     title-block-style: default
     title-block-categories: false

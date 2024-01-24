@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-# Biography
+# Biography {.unnumbered}
 
 ```{r echo=FALSE, out.width="100%", fig.align='center', cache=TRUE}
 knitr::include_graphics('/Users/sophiac/Desktop/portfolio_final/port_figures/recital.jpeg')
