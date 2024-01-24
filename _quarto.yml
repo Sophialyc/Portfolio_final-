@@ -1,7 +1,6 @@
 
 project:
-  type: website
-  output-dir: docs
+  type: book
 
 book:
   title: "Shirley Cheung" 
@@ -18,9 +17,9 @@ book:
     align: center
   sidebar:
     title: "Profile"
-    style: floating
+    style: docked
     reader-mode: true
-  repo-url: https://github.com/Sophialyc/profile_web.git
+  repo-url: https://github.com/Sophialyc/Portfolio_final-.git
   chapters:
     - index.qmd
     - biography.qmd

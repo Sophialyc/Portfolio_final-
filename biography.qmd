@@ -1,7 +1,7 @@
 # Biography
 
 ```{r echo=FALSE, out.width="100%", fig.align='center', cache=TRUE}
-knitr::include_graphics('/Users/sophiac/Desktop/portfolio/port_figures/recital.jpeg')
+knitr::include_graphics('/Users/sophiac/Desktop/portfolio_final/port_figures/recital.jpeg')
 ```
 
 Shirley Cheung, a native of Hong Kong, embarked her musical journey at a young age,revealing an innate talent that would later blossom into a versatile and accomplished musician. Born and raised in the vibrant city, Shirley's early exposure to music has driven her towards the enchanting world of music
