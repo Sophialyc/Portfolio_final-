@@ -5,7 +5,9 @@
   padding-bottom: 50em;
 }
 
-.quarto
+.quarto-title > h1.title {
+  opacity: 0 !important;
+}
 
 body {
     font-family: 'Your Chosen Font', sans-serif;
