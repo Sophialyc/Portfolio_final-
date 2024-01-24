@@ -5,10 +5,10 @@ project:
 book:
   title: "Shirley Cheung" 
   navbar: 
-    logo: port_figures/3.png
+    logo: port_figures/3.jpg
     collapse: true
     collapse-below: lg
-    background: "light"
+    background: "#FFFFFF"
     style: "docked"
     search: true
     right:

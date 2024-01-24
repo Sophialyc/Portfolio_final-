@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+
+.quarto-title-banner {
+  padding-top: 9em;
+  padding-bottom: 9em;
+}
+
+.quarto-title > h1.title {
+  opacity: 0 !important;
+}
+
+
+/* Adjust the logo size by 50% */
+.navbar-brand img {
+    width: 300%;
+}
