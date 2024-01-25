@@ -1,12 +1,16 @@
 /*-- scss:defaults --*/
 
 .quarto-title-banner {
-  padding-top: 50em;
-  padding-bottom: 50em;
+  padding-top: 8em;
+  padding-bottom: 8em;
 }
 
 .quarto-title > h1.title {
   opacity: 0 !important;
+}
+
+.Home.quarto-title-banner {
+  background-size: cover;
 }
 
 body {

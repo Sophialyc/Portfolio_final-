@@ -13,7 +13,12 @@ book:
     style: "docked"
     search: true
     right:
-      - icon: github
+      - icon: Home
+        href: "index.qmd"
+      - icon: Biography
+        href: "biography.qmd"
+      - icon: Contact
+        href: "contact.qmd"
       - icon: instagram  # Add Instagram icon
         href: "https://www.instagram.com/cheunghoiiiyi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
       - icon: facebook   # Add Facebook icon
@@ -22,10 +27,7 @@ book:
         href: "https://wa.me/+85266893127"
     pinned: true
     align: center
-  sidebar:
-    title: "Profile"
-    style: docked
-    reader-mode: true
+  sidebar: false
   chapters:
     - index.qmd
     - biography.qmd
@@ -40,7 +42,7 @@ format:
     theme: [Lux]
     css: styles.css
     toc: false
-    title-block-banner: "port_figures/shirley.jpeg"
+    title-block-banner: "port_figures/banner.JPG"
     title-block-style: default
     title-block-categories: false
     title-block-banner-color: "body"
