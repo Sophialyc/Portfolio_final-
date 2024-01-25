@@ -35,8 +35,6 @@ book:
 
 reader-mode: true
 
-bibliography: references.bib
-
 format:
   html:
     theme: [Lux]
