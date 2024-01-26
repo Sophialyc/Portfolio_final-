@@ -40,8 +40,10 @@ format:
     theme: [Lux]
     css: styles.css
     toc: false
-    title-block-banner: "port_figures/banner.JPG"
+    title-block-banner: "port_figures/shirley.jpeg"
     title-block-style: default
     title-block-categories: false
     title-block-banner-color: "body"
+
+
 
